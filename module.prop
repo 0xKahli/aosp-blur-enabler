@@ -1,0 +1,7 @@
+id=aospblur
+name=AOSP Blur Enabler (V21+)
+version=1
+versionCode=1
+author=Ryosuke_420
+description=Makes some UI elements blurry 
+minMagisk=2100
